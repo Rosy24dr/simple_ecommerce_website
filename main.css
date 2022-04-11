@@ -53,7 +53,7 @@ main section{
 }
 
 .resize {
-    width: 400px;
+    width: 225px;
     height: auto;
     float: left;
     padding: 1rem;
@@ -62,4 +62,10 @@ main section{
 
 footer {
     text-align: center;
+    background-color: darkslategrey;
+    padding: 2rem;
+    position: fixed;
+    width: 100%;
+    left: 0%;
+    bottom: 0%;
 }
